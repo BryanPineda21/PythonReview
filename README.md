@@ -5,8 +5,6 @@
   ![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   [![Last Commit](https://img.shields.io/github/last-commit/BryanPineda21/PythonReview?style=for-the-badge)](https://github.com/BryanPineda21/PythonReview/commits/main)
   [![Stars](https://img.shields.io/github/stars/BryanPineda21/PythonReview?style=for-the-badge)](https://github.com/BryanPineda21/PythonReview/stargazers)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 </div>
 
 <br>
